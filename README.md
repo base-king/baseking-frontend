@@ -11,6 +11,7 @@
 ### ⚙️ 개발 환경
 - `nvm`
 - `node version - 20.9.0`
+- `yarn version - 4.5.2`
 - `Next.js App Router`
   <br>
   <br>
